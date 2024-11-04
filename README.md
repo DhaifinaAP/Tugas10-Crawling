@@ -1,5 +1,4 @@
-# Pinterest Data Scraper
-
+# Pinterest Data Crawler
 ## Deskripsi Proyek
 Proyek ini adalah skrip Python yang digunakan untuk mengambil data pin dari Pinterest berdasarkan kata kunci pencarian yang dimasukkan pengguna. Data yang diambil berupa tautan ke pin Pinterest, yang kemudian disimpan ke dalam file CSV.
 
