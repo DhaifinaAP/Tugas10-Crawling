@@ -42,8 +42,8 @@ Sebelum menjalankan proyek ini, pastikan telah menginstal perangkat lunak dan re
 2. **Input Pengguna**:
    Saat diminta, masukkan kata kunci pencarian dan jumlah data yang diinginkan:
    ```
-   Masukkan kata kunci pencarian: [contoh: dekorasi rumah]
-   Masukkan jumlah data yang diinginkan: [contoh: 10]
+   Masukkan kata kunci pencarian: [contoh: interior ideas]
+   Masukkan jumlah data yang diinginkan: [contoh: 30]
    ```
 
 3. **Output**:
