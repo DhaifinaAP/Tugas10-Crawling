@@ -13,7 +13,7 @@ Sebelum menjalankan proyek ini, pastikan telah menginstal perangkat lunak dan re
 
 1. **Clone repository ini** (jika proyek ini di-host di repositori git):
    ```bash
-   git clone https://github.com/username/project-name.git
+   git clone https://github.com/DhaifinaAP/Tugas10-Crawling.git
    cd project-name
    ```
 
