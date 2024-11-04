@@ -28,7 +28,7 @@ if response.status_code == 200:
     data = response.json().get('data', [])
     
     # Menyimpan output ke dalam file CSV
-    with open('output.csv', mode='w', newline='', encoding='utf-8') as file:
+    with open('url_printerest_data.csv', mode='w', newline='', encoding='utf-8') as file:
         writer = csv.writer(file)
         writer.writerow(['Nomor', 'Link'])  # Menulis header
         
